@@ -1,0 +1,4 @@
+Check system user = whoami
+find current path = cd 
+display files by type = dir *.txt 
+In powershell count number of rows type sed.txt | Measure-Object -Line
